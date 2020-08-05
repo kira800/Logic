@@ -1,0 +1,32 @@
+.headText{
+    color: white;
+}
+nav{
+    background: #0D65DD;
+}
+span{
+    font-weight: 500;
+    
+}
+#profile{
+    padding-top: 10px;
+    max-height: 40px;
+    border-radius: 100%;
+}
+#logo{
+    padding-top: 10px;
+    max-height: 40px;
+    border-radius: 45%;
+    margin: auto 7px;;
+}
+#image{
+    max-width: 30px;
+}
+i
+{
+    margin: 18px 10px;
+    
+}
+.bor{
+    border-bottom: 1px solid rgb(185, 185, 185);
+}

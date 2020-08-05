@@ -1,0 +1,19 @@
+.full-width-table {
+  width: 100%;
+}
+.data-table{
+  width: 60%;
+  margin-top: 20px;
+
+  float: left;
+}
+.container {
+  width: 1270px;
+}
+
+.marg{
+    
+  max-width: 60%;
+  max-height: 40%;
+}
+

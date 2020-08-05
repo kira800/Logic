@@ -1,0 +1,49 @@
+.marg{
+    margin-top: 20px;
+    max-width: 100%;
+}
+
+.panel-default>.panel-heading {
+    padding: 20px;
+    font-size: x-large;
+    background-color: white;
+    height: 6rem;
+}
+.panel-default{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+button{
+    float: right;
+}
+
+img{
+    max-width: 50px;
+    border-radius: 100%;
+    margin-top: 7px;
+}
+
+
+.col-md-10 {
+    width: 75%;
+    padding-left: 10px;
+    margin-left: 0;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.in{
+    max-width: 10%;
+}
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+    margin-left: 0;
+    padding-left: 15px;
+}
+.mat-body p, .mat-body-1 p, .mat-typography p {
+    margin: -6px 0 12px;
+}
+hr{
+    margin-top: 0;
+    margin-bottom: 0;
+}

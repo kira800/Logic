@@ -1,0 +1,80 @@
+.rectangleBlue {
+    background: #0D65DD;  
+  }
+  .rectangleWhite{
+    background: white;
+  }
+  .rectMargin{
+    width: 260px;
+    height: 130px;
+    margin: 2%;
+    border-radius: 5%;
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+.around{
+    display: flex;
+    justify-content: space-between;
+}
+.pHead{  
+   
+    margin-top:15px;
+    margin-left: 15px;
+    margin-right: 30%;
+    margin-bottom: 0;
+    font-weight: 500;
+    float: left;
+}
+.pHeadWhite{
+    margin-right: 70%;
+}
+
+.wrapp{
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.textWhite{
+    color: white;
+}
+
+.textBlack{
+    color: black;
+}
+
+.textred{
+    color: red;
+}
+
+.textGreen{
+    color: lightgreen;
+}
+.textPink{
+    color: pink;
+}
+.textBlue{
+    color: blue;
+}
+
+h2
+{
+    
+    margin-left:15px ;
+    margin-bottom: 0;
+    margin-top: 20px;
+    margin-right: 4px;
+    
+}
+
+.unit{
+
+    margin-top: 29px;
+    font-weight: 500;
+    margin-right: 50%;
+}
+.percent{
+    margin-left: 15px;
+    font-weight: 500;
+    font-size: 1.6rem;
+
+}
